@@ -1,0 +1,308 @@
+ [
+  {
+    "stateCode": "AK",
+    "stateName": "Alaska",
+    "year": 2023,
+    "month": "january"
+  },
+  {
+    "stateCode": "AL",
+    "stateName": "Alabama",
+    "year": 2023,
+    "month": "january"
+  },
+  {
+    "stateCode": "AR",
+    "stateName": "Arkansas",
+    "year": 2023,
+    "month": "january"
+  },
+  {
+    "stateCode": "AZ",
+    "stateName": "Arizona",
+    "year": 2023,
+    "month": "january"
+  },
+  {
+    "stateCode": "CA",
+    "stateName": "California",
+    "year": 2023,
+    "month": "january"
+  },
+  {
+    "stateCode": "CO",
+    "stateName": "Colorado",
+    "year": 2023,
+    "month": "january"
+  },
+  {
+    "stateCode": "CT",
+    "stateName": "Connecticut",
+    "year": 2023,
+    "month": "january"
+  },
+  {
+    "stateCode": "DC",
+    "stateName": "District of Columbia",
+    "year": 2023,
+    "month": "january"
+  },
+  {
+    "stateCode": "DE",
+    "stateName": "Delaware",
+    "year": 2023,
+    "month": "january"
+  },
+  {
+    "stateCode": "FL",
+    "stateName": "Florida",
+    "year": 2023,
+    "month": "january"
+  },
+  {
+    "stateCode": "GA",
+    "stateName": "Georgia",
+    "year": 2023,
+    "month": "january"
+  },
+  {
+    "stateCode": "HI",
+    "stateName": "Hawaii",
+    "year": 2023,
+    "month": "january"
+  },
+  {
+    "stateCode": "IA",
+    "stateName": "Iowa",
+    "year": 2023,
+    "month": "january"
+  },
+  {
+    "stateCode": "ID",
+    "stateName": "Idaho",
+    "year": 2023,
+    "month": "january"
+  },
+  {
+    "stateCode": "IL",
+    "stateName": "Illinois",
+    "year": 2023,
+    "month": "january"
+  },
+  {
+    "stateCode": "IN",
+    "stateName": "Indiana",
+    "year": 2023,
+    "month": "january"
+  },
+  {
+    "stateCode": "KS",
+    "stateName": "Kansas",
+    "year": 2023,
+    "month": "january"
+  },
+  {
+    "stateCode": "KY",
+    "stateName": "Kentucky",
+    "year": 2023,
+    "month": "january"
+  },
+  {
+    "stateCode": "LA",
+    "stateName": "Louisiana",
+    "year": 2023,
+    "month": "january"
+  },
+  {
+    "stateCode": "MA",
+    "stateName": "Massachusetts",
+    "year": 2023,
+    "month": "january"
+  },
+  {
+    "stateCode": "MD",
+    "stateName": "Maryland",
+    "year": 2023,
+    "month": "january"
+  },
+  {
+    "stateCode": "ME",
+    "stateName": "Maine",
+    "year": 2023,
+    "month": "january"
+  },
+  {
+    "stateCode": "MI",
+    "stateName": "Michigan",
+    "year": 2023,
+    "month": "january"
+  },
+  {
+    "stateCode": "MN",
+    "stateName": "Minnesota",
+    "year": 2023,
+    "month": "january"
+  },
+  {
+    "stateCode": "MO",
+    "stateName": "Missouri",
+    "year": 2023,
+    "month": "january"
+  },
+  {
+    "stateCode": "MS",
+    "stateName": "Mississippi",
+    "year": 2023,
+    "month": "january"
+  },
+  {
+    "stateCode": "MT",
+    "stateName": "Montana",
+    "year": 2023,
+    "month": "january"
+  },
+  {
+    "stateCode": "NC",
+    "stateName": "North Carolina",
+    "year": 2023,
+    "month": "january"
+  },
+  {
+    "stateCode": "ND",
+    "stateName": "North Dakota",
+    "year": 2023,
+    "month": "january"
+  },
+  {
+    "stateCode": "NE",
+    "stateName": "Nebraska",
+    "year": 2023,
+    "month": "january"
+  },
+  {
+    "stateCode": "NH",
+    "stateName": "New Hampshire",
+    "year": 2023,
+    "month": "january"
+  },
+  {
+    "stateCode": "NJ",
+    "stateName": "New Jersey",
+    "year": 2023,
+    "month": "january"
+  },
+  {
+    "stateCode": "NM",
+    "stateName": "New Mexico",
+    "year": 2023,
+    "month": "january"
+  },
+  {
+    "stateCode": "NV",
+    "stateName": "Nevada",
+    "year": 2023,
+    "month": "january"
+  },
+  {
+    "stateCode": "NY",
+    "stateName": "New York",
+    "year": 2023,
+    "month": "january"
+  },
+  {
+    "stateCode": "OH",
+    "stateName": "Ohio",
+    "year": 2023,
+    "month": "january"
+  },
+  {
+    "stateCode": "OK",
+    "stateName": "Oklahoma",
+    "year": 2023,
+    "month": "january"
+  },
+  {
+    "stateCode": "OR",
+    "stateName": "Oregon",
+    "year": 2023,
+    "month": "january"
+  },
+  {
+    "stateCode": "PA",
+    "stateName": "Pennsylvania",
+    "year": 2023,
+    "month": "january"
+  },
+  {
+    "stateCode": "RI",
+    "stateName": "Rhode Island",
+    "year": 2023,
+    "month": "january"
+  },
+  {
+    "stateCode": "SC",
+    "stateName": "South Carolina",
+    "year": 2023,
+    "month": "january"
+  },
+  {
+    "stateCode": "SD",
+    "stateName": "South Dakota",
+    "year": 2023,
+    "month": "january"
+  },
+  {
+    "stateCode": "TN",
+    "stateName": "Tennessee",
+    "year": 2023,
+    "month": "january"
+  },
+  {
+    "stateCode": "TX",
+    "stateName": "Texas",
+    "year": 2023,
+    "month": "january"
+  },
+  {
+    "stateCode": "UT",
+    "stateName": "Utah",
+    "year": 2023,
+    "month": "january"
+  },
+  {
+    "stateCode": "VA",
+    "stateName": "Virginia",
+    "year": 2023,
+    "month": "january"
+  },
+  {
+    "stateCode": "VT",
+    "stateName": "Vermont",
+    "year": 2023,
+    "month": "january"
+  },
+  {
+    "stateCode": "WA",
+    "stateName": "Washington",
+    "year": 2023,
+    "month": "january"
+  },
+  {
+    "stateCode": "WI",
+    "stateName": "Wisconsin",
+    "year": 2023,
+    "month": "january"
+  },
+  {
+    "stateCode": "WV",
+    "stateName": "West Virginia",
+    "year": 2023,
+    "month": "january"
+  },
+  {
+    "stateCode": "WY",
+    "stateName": "Wyoming",
+    "year": 2023,
+    "month": "january"
+  }
+]

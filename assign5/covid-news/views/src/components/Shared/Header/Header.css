@@ -1,0 +1,23 @@
+.header-style{
+    background-color: #0776ad;
+    color: white;
+}
+.header-style a{
+    color: white;
+    font-weight: 500;
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+.header-style a:hover{
+    color: cornsilk;
+    font-weight: 500;
+    font-size: 20px;
+}
+.header-style a:active{
+    color: cornsilk;
+    font-weight: 500;
+    font-size: 20px;
+}
+.navbar-toggler, .navbar-toggler-icon{
+    color: white !important;
+}

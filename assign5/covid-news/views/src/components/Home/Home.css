@@ -1,0 +1,51 @@
+.slide-images {
+  height: 650px;
+  width: 250px;
+}
+.overview-image {
+  height: 400px;
+}
+.overview-desc h3 {
+  text-align: left;
+}
+.overview-desc p {
+  text-align: left;
+  font-size: 14px;
+}
+.overview-desc ul li {
+  text-align: left;
+}
+.overview-Section {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.overview-Section h2 {
+  margin-bottom: 40px;
+  text-align: left;
+}
+.chart-container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+@media (max-width: 576px) {
+  .slide-images {
+    height: 250px;
+  }
+  .overview-image {
+    width: 100%;
+    height: 200px;
+    margin-bottom: 20px;
+  }
+  .overview-Section{
+    margin-top: 30px;
+  }
+  .overview-Section h2 {
+    margin-bottom: 15px;
+    text-align: left;
+  }
+  .chart-container{
+    overflow-x: scroll;
+  }
+}
